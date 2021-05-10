@@ -21,5 +21,3 @@ Possíveis soluções para problemas de performance no nosso middleware para Pok
   + Será possível criar um ActiveRecord pra tabela pokemon_abilities e usar recursos do próprio Rails pra trabalhar com esses dados processados de forma mais agil, simples e dinâmica.
 + REFACTORING
   + Depois de escrever os testes, refatorar o código pensando em performance na extração dos dados da API.
-
-**As soluções podem ser combinadas dependendo da necessidade.**
