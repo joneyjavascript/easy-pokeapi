@@ -1,6 +1,6 @@
 # EASY PokeAPI
 
-![image](https://user-images.githubusercontent.com/2818123/117732152-bb101880-b1c5-11eb-9196-b72720f08f07.png)
+![image](https://user-images.githubusercontent.com/2818123/117732460-50aba800-b1c6-11eb-9825-47333a61e18e.png)
 
 ## TESTES
 
