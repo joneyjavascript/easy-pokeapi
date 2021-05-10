@@ -1,7 +1,7 @@
 class PokemonService
   BASE_URL = Rails.application.config.pokemon_api_base_url
 
-  def abilities pokemon_name
+  def self.abilities pokemon_name
     pokemon_abilities = abilities_raw pokemon_name
     return nil unless pokemon_abilities
 
@@ -21,12 +21,12 @@ class PokemonService
 
   private
 
-    def abilities_raw pokemon_name
+    def self.abilities_raw pokemon_name
       response = get_request("pokemon/#{ pokemon_name }")
       response.parsed_response["abilities"]
     end
 
-    def get_request resource
+    def self.get_request resource
       HTTParty.get("#{ BASE_URL }/#{ resource }")
     end
 
