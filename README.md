@@ -1,10 +1,10 @@
-# README
+# EASY PokeAPI
 
-# TESTES
+## TESTES
 
 + rails test
 
-# PERFOMANCE 
+## PERFOMANCE 
 
 Possíveis soluções para problemas de performance no nosso middleware para PokeApi
 
