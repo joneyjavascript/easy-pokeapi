@@ -1,5 +1,7 @@
 # EASY PokeAPI
 
+![image](https://user-images.githubusercontent.com/2818123/117732152-bb101880-b1c5-11eb-9196-b72720f08f07.png)
+
 ## TESTES
 
 + rails test
@@ -20,4 +22,4 @@ Possíveis soluções para problemas de performance no nosso middleware para Pok
 + REFACTORING
   + Depois de escrever os testes, refatorar o código pensando em performance na extração dos dados da API.
 
-+ As soluções podem ser combinadas dependendo da necessidade.
+**As soluções podem ser combinadas dependendo da necessidade.**
